@@ -1,0 +1,23 @@
+:: MaxLink 0.36 installation instructions for Windows XP ::
+
+:: For Processing ::
+
+   Drag the "maxlink" folder into your Processing libraries folder
+      (C:\Program Files\processing-xxxx\libraries\).
+
+
+:: For Max/MSP 4.5+ ::
+
+   Drag the "for cycling '74 java lib/maxlink.jar" jar file into the C:\Program Files\Common Files\Cycling '74\java\lib folder.
+
+
+:: For Max/MSP 5.x ::
+
+   Drag the "for cycling '74 java lib/maxlink.jar" jar file into the C:\Program Files\Cycling '74\Max 5.0\Cycling '74\java\lib folder.
+
+
+Restart both apps.  
+
+If you have a firewall running, enable network traffic on port 7474.
+
+More info: http://jklabs.net/maxlink/
